@@ -2,7 +2,10 @@
 
 🚀 **[Open Study Planner](https://study-planner-kvlqn5q3kqfxxhaakmptgj.streamlit.app)**
 
-A simple study planning application built with Python and Streamlit.
+## 📸 App Preview
+
+![Study Planner Dashboard](screenshot.png)
+
 A simple study planning application built with Python and Streamlit.
 
 ## ✨ Features
