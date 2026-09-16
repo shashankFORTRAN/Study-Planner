@@ -4,7 +4,7 @@
 
 ## 📸 App Preview
 
-![Study Planner Dashboard](screenshot.png)
+![Study Planner Dashboard](Screenshot.png)
 
 A simple study planning application built with Python and Streamlit.
 
